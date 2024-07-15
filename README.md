@@ -1,15 +1,17 @@
-TOT Exchange App
-MVP version of TOT Exchange ( Version of Hiring Purpose )
 
-To-Do for Candidates
-This version include TOT Exchange website frontend MVP version, and also connected with Node.js back-end. "npm run start" will launch front-end, Please lanuch back-end and front-end on your side and check website features. If you face package dependecy issues, please try to solve and report it. Once you confirm all features of the project, send report to email we contacted you.
 
-Report Structure
-Name
-Features you found in the project
-Issues you found while running or inappropriate coding style & convention
-Your opinion to upgrade / add more features
-(Optional) Give me an Idea to achive a goal with Mexc.com
+
+This version include TOT Exchange website frontend MVP version, and also connected with Node.js back-end. "npm run start" will launch front-end, Please lanuch back-end and front-end on your side and check website features. If you face package dependecy issues, please try to solve and report it. Once you confirm all features of the project, 
+
+Report Structure feed back
+1 Features you found in the project
+2 Issues you found while running or inappropriate coding style & convention
+3 Your opinion to upgrade / add more features
+4 (Optional) Give me an Idea to improve it 
+
+
+
+
 Available Scripts
 In the project directory, you can run:
 
